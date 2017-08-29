@@ -1,0 +1,5 @@
+/node_modules
+/target
+/project/*
+!/project/build.properties
+!/project/plugins.sbt
